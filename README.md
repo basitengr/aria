@@ -48,7 +48,7 @@ handle several other challenges related to audio file location.)
 Clone the repo into some directory on your Asterisk server:
 
     cd /opt
-    git clone https://github.com/ssokol/aria/aria.git
+    git clone https://github.com/ssokol/aria.git
 
 Once you have cloned the repository you will need to install all of the required 
 node modules using npm:
